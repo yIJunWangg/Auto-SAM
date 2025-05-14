@@ -2,7 +2,7 @@
 
 Authors: Yijun Wang, Dongyu Zheng, Wei Zeng, Caihua Chen, Sixuan Wu, Hongjun Li, Yujie Gao, Chao Ma, Xiumian Hu, Mingcai Hou
 
-## weight Download
+## Weight Download
 
 You can download the SAM weight at [here](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)
 
