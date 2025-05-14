@@ -15,6 +15,10 @@ You can follow the [vrp-sam](https://github.com/syp2ysy/VRP-SAM) for environment
 ## Training
 Run train.py, you can modify the hyperparameter at train.py
 
+## Visualize
+
+Run visualize_composite.py
+
 
 
 
