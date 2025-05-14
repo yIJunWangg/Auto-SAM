@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 from data.pascal import DatasetPASCAL
 from data.coco import DatasetCOCO
 from data.rock import DatasetROCK
-from data.rockdataset import DatasetROCKRe
+from data.demo import DatasetROCKRe
 # from data.coco2pascal import DatasetCOCO2PASCAL
 
 

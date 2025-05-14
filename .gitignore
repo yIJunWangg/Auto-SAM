@@ -1,5 +1,5 @@
 __pycache__/
-dataset/
+dataset/ROCK/
 logs/
 cache/
 results*/
@@ -8,3 +8,4 @@ GT/
 data/splits
 temp/
 *.pyc
+dataset/rockaug.py
