@@ -1,0 +1,10 @@
+__pycache__/
+dataset/
+logs/
+cache/
+results*/
+SAM_pred/
+GT/
+data/splits
+temp/
+*.pyc
