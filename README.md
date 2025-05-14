@@ -17,7 +17,7 @@ Run train.py, you can modify the hyperparameter at train.py
 
 ## Visualize
 
-Run visualize_composite.py
+Run visualize_demo.py
 
 
 
