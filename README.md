@@ -10,8 +10,7 @@ Authors: Yijun Wang, Dongyu Zheng, Wei Zeng, Caihua Chen, Sixuan Wu, Hongjun Li,
 
 Conda environment settings:
 ```bash
-conda create -n vrpsam python=3.10
-conda activate vrpsam
+you can follow the https://github.com/syp2ysy/VRP-SAM for environment settings
 
 ```
 
