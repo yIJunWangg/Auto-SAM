@@ -6,6 +6,8 @@ Authors: Yijun Wang, Dongyu Zheng, Wei Zeng, Caihua Chen, Sixuan Wu, Hongjun Li,
 
 You can download the SAM weight at [here](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)
 
+Our model need to download two weight you can download [here](https://drive.google.com/drive/folders/1ZE-KgpZKiKM6Jjh2Wjz-ejjlYWWfVhob?usp=drive_link)
+
 ## Conda environment settings:
 
 You can follow the [vrp-sam](https://github.com/syp2ysy/VRP-SAM) for environment 
