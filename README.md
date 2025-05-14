@@ -19,6 +19,13 @@ Run train.py, you can modify the hyperparameter at train.py
 
 Run visualize_demo.py
 
+## Demo result
+
+
+| XPL      | PPL      | result      |
+|------------------------|------------------------|------------------------|
+| ![XPL](assets/16A063-1_a27+.png) | ![PPL](assets/16A063-1_a27-.png) | ![result](assets/16A063-1_a27.png) |
+
 
 
 
